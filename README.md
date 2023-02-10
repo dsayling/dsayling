@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Drew.
 
-### I'm a software engineer with a lot of DevOps, Automation, and Quality experience.
+### I'm a software engineer doing a lot of DevOps, Automation, and Quality.
 
 
 ![core languages](https://img.shields.io/static/v1?label=&message=core%20languages:&color=111&style=flat-square)
