@@ -16,12 +16,16 @@
 ![verilog](https://img.shields.io/static/v1?logo=xilinx&label=&message=verilog&color=36465D&logoColor=AAA&style=flat-square)
 
 
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![some preferred tools](https://img.shields.io/static/v1?label=&message=some%20preferred%20tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![circle-ci](https://img.shields.io/static/v1?logo=circleci&label=&message=circleci&color=36465D&logoColor=AAA&style=flat-square)
 ![actions](https://img.shields.io/static/v1?logo=github&label=&message=github%20actions&color=36465D&logoColor=AAA&style=flat-square)
 ![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=36465D&logoColor=AAA&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visualstudio&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+
+
 
 
 #### 🔭 Currently @ Teladoc Health: Staff Software Engineer - specifically focused on automation to test and release.
