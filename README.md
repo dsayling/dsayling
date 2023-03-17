@@ -25,7 +25,5 @@
 
 
 #### 🔭 Currently @ Teladoc Health: Staff Software Engineer - specifically focused on automation to test and release.
-#### 📫 How to reach me
-- [LinkedIn](http://linkedin.com/in/drew-ayling/)
-- [Medium](https://dsayling.medium.com/)
+#### 📫 Socials in my profile ⬅️
 
