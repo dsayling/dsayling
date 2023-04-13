@@ -28,6 +28,7 @@
 
 
 
-#### 🔭 Currently @ Teladoc Health: Staff Software Engineer - specifically focused on automation to test and release.
+#### 🔭 Departing Teladoc Health 2023/04/14
+#### 🚗 Starting @ Ford Model e soon
 #### 📫 Socials in my profile ⬅️
 
