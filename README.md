@@ -28,10 +28,10 @@
 
 
 
-#### 🔭 Currently [@ford](https://github.com/ford)
+#### 🚗 Currently [@ford](https://github.com/ford)
 #### 🔬 Former [@Teladoc](https://github.com/teladoc) / [@Livongo](https://github.com/livongo) - Automation Architecture
 #### 🟢 Former [@CircleCI](https://github.com/circleci) / [@CircleCI-Public](https://github.com/circleci-public) - Community & Partner Engineer
 #### 💾 Former [@solidfire](https://github.com/solidfire) / [@NetApp](https://github.com/netapp) - Senior Engineer and DevOps Architect
-#### More details in my resume ⬅️
+#### 📁 More details in my resume ⬅️
 #### 📫 Socials in my profile ⬅️
 
