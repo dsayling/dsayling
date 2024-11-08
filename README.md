@@ -5,11 +5,11 @@
 
 ![core languages](https://img.shields.io/static/v1?label=&message=core%20languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript(react)&color=36465D&logoColor=AAA&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
 
 ![used languages](https://img.shields.io/static/v1?label=&message=used%20languages:&color=111&style=flat-square)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
 ![c++](https://img.shields.io/static/v1?logo=C%2B%2B&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square)
 ![perl](https://img.shields.io/static/v1?logo=perl&label=&message=perl&color=36465D&logoColor=AAA&style=flat-square)
